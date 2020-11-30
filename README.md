@@ -1,5 +1,5 @@
 # Python-
-This file consist of Python Basics - 
+Python-Basics-01 consist of 
 1. Variable
 2. Numbers and Boolean Values
 3. Strings
